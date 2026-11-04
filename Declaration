@@ -1,0 +1,1 @@
+pinMode(Servo1, OUTPUT)
