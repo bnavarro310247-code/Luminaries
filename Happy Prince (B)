@@ -1,2 +1,3 @@
 //this is the first code thing
-pinMode(Servo1, OUTPUT)
+const int Servo1 = 1;
+pinMode(Servo1, OUTPUT);
